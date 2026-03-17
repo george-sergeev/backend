@@ -1,1 +1,1 @@
-# backend for ТАЕ Marketplace
+# backend for NFT Marketplace
