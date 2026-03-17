@@ -1,0 +1,25 @@
+[
+	{
+		"id": "collection-derpverse",
+		"name": "Derpverse Creatures",
+		"creatorId": "4d1a9f8c2b7e3c6f",
+
+		"nftIds": ["7i7uefcm3vodkdr7", "ruds7kwc3txyx2z6", "zsp280vvde787svc"]
+	},
+
+	{
+		"id": "collection-streetcats",
+		"name": "Street Cats Syndicate",
+		"creatorId": "e9f8d7c6b5a4f3e2",
+
+		"nftIds": ["otoc710f2p2bf3ww", "9qas5fofwwieyi3q", "pc0wus5ocxy6pskh"]
+	},
+
+	{
+		"id": "collection-mystic",
+		"name": "Mystic Hollow Spirits",
+		"creatorId": "c1d2e3f4a5b6c7d8",
+
+		"nftIds": ["c1d2e3f4a5b6c7d8", "v32fua670n8y4pl2", "60xx0ubooh1pz8nz"]
+	}
+]

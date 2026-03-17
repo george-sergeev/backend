@@ -1,0 +1,254 @@
+[
+	{
+		"id": "a3f5b9c2d1e4f678",
+		"rank": 1,
+		"nickname": "Keepitreal",
+		"fullname": "Jaydon Ekstrom Bothman",
+		"avatar": "/images/avatars/avatar-1.png",
+		"cover": "/images/covers/cover1.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 138.67,
+		"itemsSold": 82,
+		"followers": 2144,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "4d1a9f8c2b7e3c6f",
+		"rank": 2,
+		"nickname": "DigiLab",
+		"fullname": "Ruben Carder",
+		"avatar": "/images/avatars/avatar-2.png",
+		"cover": "/images/covers/cover2.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 127.24,
+		"itemsSold": 43,
+		"followers": 3553,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "9b8e7d6c5a4f3b2d",
+		"rank": 3,
+		"nickname": "GravityOne",
+		"fullname": "Alfredo Septimus",
+		"avatar": "/images/avatars/avatar-3.png",
+		"cover": "/images/covers/cover3.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 263.23,
+		"itemsSold": 53,
+		"followers": 5946,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "f1c2d3e4a5b6c7d8",
+		"rank": 4,
+		"nickname": "Juanie",
+		"fullname": "Davis Franci",
+		"avatar": "/images/avatars/avatar-4.png",
+		"cover": "/images/covers/cover4.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 254.61,
+		"itemsSold": 10,
+		"followers": 4831,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "2a3b4c5d6e7f8a9b",
+		"rank": 5,
+		"nickname": "BlueWhale",
+		"fullname": "Livia Rosser",
+		"avatar": "/images/avatars/avatar-5.png",
+		"cover": "/images/covers/cover5.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 222.24,
+		"itemsSold": 91,
+		"followers": 5695,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "b7c6d5e4f3a2b1c0",
+		"rank": 6,
+		"nickname": "Mr Fox",
+		"fullname": "Kianna Donin",
+		"avatar": "/images/avatars/avatar-6.png",
+		"cover": "/images/covers/cover6.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 143.15,
+		"itemsSold": 24,
+		"followers": 1652,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "8f7e6d5c4b3a2f1e",
+		"rank": 7,
+		"nickname": "Shroomie",
+		"fullname": "Phillip Lipshutz",
+		"avatar": "/images/avatars/avatar-7.png",
+		"cover": "/images/covers/cover7.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 248.16,
+		"itemsSold": 56,
+		"followers": 5475,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "1c2d3e4f5a6b7c8d",
+		"rank": 8,
+		"nickname": "Robotica",
+		"fullname": "Maria Rosser",
+		"avatar": "/images/avatars/avatar-8.png",
+		"cover": "/images/covers/cover8.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 295.2,
+		"itemsSold": 26,
+		"followers": 2599,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "e9f8d7c6b5a4f3e2",
+		"rank": 9,
+		"nickname": "RustyRobot",
+		"fullname": "Kianna Stanton",
+		"avatar": "/images/avatars/avatar-9.png",
+		"cover": "/images/covers/cover9.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 138.2,
+		"itemsSold": 90,
+		"followers": 4744,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "3a4b5c6d7e8f9a0b",
+		"rank": 10,
+		"nickname": "Animakid",
+		"fullname": "Angel Lubin",
+		"avatar": "/images/avatars/avatar-10.png",
+		"cover": "/images/covers/cover10.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 231.46,
+		"itemsSold": 60,
+		"followers": 3349,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "c1d2e3f4a5b6c7d8",
+		"rank": 11,
+		"nickname": "Dotgu",
+		"fullname": "Allison Torff",
+		"avatar": "/images/avatars/avatar-11.png",
+		"cover": "/images/covers/cover11.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 204.23,
+		"itemsSold": 34,
+		"followers": 4608,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	},
+	{
+		"id": "6f5e4d3c2b1a0f9e",
+		"rank": 12,
+		"nickname": "Ghiblier",
+		"fullname": "Davis Workman",
+		"avatar": "/images/avatars/avatar-12.png",
+		"cover": "/images/covers/cover12.png",
+		"bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+
+		"volume": 174.46,
+		"itemsSold": 41,
+		"followers": 5560,
+
+		"socials": {
+			"linkedin": "#",
+			"discord": "#",
+			"youtube": "#",
+			"twitter": "#",
+			"instagram": "#"
+		}
+	}
+]
